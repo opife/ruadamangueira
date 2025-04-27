@@ -9,6 +9,9 @@ tags: [reflexões, literatura, portugues]
 
 ![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/somospiores.jpg)
 
+![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/ruamangueira.jpg)
+
+
 Não somos vermes, somos piores que isso.
 Não se assuste. 
 Não é pessimismo, nem muito menos, digamos, rabugice. É fato.
