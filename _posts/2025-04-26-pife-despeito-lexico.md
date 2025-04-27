@@ -3,7 +3,7 @@ layout: post
 title: "A despeito de duas unidades do léxico português"
 date: 2025-04-26
 author: Pife
-comments: true
+comments: false
 tags: [reflexões, literatura, portugues]
 ---
 
