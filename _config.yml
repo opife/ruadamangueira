@@ -1,0 +1,10 @@
+theme: minima
+title: Tlön, Uqbar, Orbis Tertius
+author: Artur
+description: Anotações e estudos
+header_pages:
+  - index.md
+  - anotacoes.md
+disqus:
+  shortname: "tlon"
+
