@@ -7,10 +7,7 @@ comments: false
 tags: [reflexões, literatura, portugues]
 ---
 
-## Não somos vermes, somos piores que isso
-
 ![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/somospiores.jpg)
-
 
 Não somos vermes, somos piores que isso.
 Não se assuste. 

@@ -7,8 +7,6 @@ comments: false
 tags: [reflexões, literatura, portugues]
 ---
 
-## Dimensões inúteis
-
 ![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/meninocanaacucar.jpg)
 
 _"Avelharíamos casmurros como todos os velhos,  todos antigos, como animais  de outras épocas  que procuram habitar ainda um planeta  que foi embora à revelia"._
