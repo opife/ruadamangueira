@@ -4,7 +4,7 @@ title: Textos
 permalink: /textos/
 ---
 
-# Minhas Anotações
+# Meus Murmúrios do Infinito
 
 <ul>
   {% for post in site.posts %}
