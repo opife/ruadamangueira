@@ -5,9 +5,6 @@ title: "Vários de Mim"
 
 ![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/ruamangueira.jpg)
 
-![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/somospiores.jpg)
-
-
 ## Caderno do Desassossego
 
 > *"Tudo o que vive se esquece. Tudo o que pensa se trai."* — Bernardo Soares
