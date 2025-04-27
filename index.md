@@ -1,31 +1,30 @@
 ---
 layout: home
-title: "Liber Genesis"
+title: "Vários de Mim"
 ---
 
-## Notações do Escriba
+## Caderno do Desassossego
 
-> *"A realidade é, em última análise, inverossímil."* — Jorge Luis Borges
+> *"Tudo o que vive se esquece. Tudo o que pensa se trai."* — Bernardo Soares
 
-Bem-vindo ao **Tlon**, um espaço de anotações, explorações e ideias.
+Bem-vindo à **Rua da Mangueira**, onde cada palavra é uma esquina, e cada esquina, um erro de navegação.
 
-Este site é um caderno público onde compartilho pensamentos, projetos, fragmentos e estudos.  
-Aqui, as fronteiras entre realidade e imaginação são borradas pela escrita.
+Este espaço é um caderno deixado ao acaso numa mesa de café; anotações dispersas de quem caminha entre o banal e o impossível.  
+Aqui, a realidade e a imaginação entrelaçam-se como sombras no fim da tarde.
 
-## Sobre este espaço
+## Sobre este lugar
 
-- 📚 Reflexões sobre literatura, filosofia, tecnologia.
-- 🛠️ Projetos e experimentos digitais.
-- ✍️ Rascunhos e notas que evoluem com o tempo.
+- 📚 Devaneios sobre literatura, filosofia, e as engenhocas tristes da tecnologia.
+- 🛠️ Pequenos experimentos — digitais, poéticos ou apenas sonhados.
+- ✍️ Rascunhos, sempre inacabados, sempre à procura de quem os leia em silêncio.
 
-## Navegue
+## Navegação (Se é que se pode chamar assim)
 
-- [Notas](/notas) — Breves ideias e ensaios.
-- [Projetos](/projetos) — Trabalhos em desenvolvimento.
-- [Sobre](/sobre) — Um pouco mais sobre mim.
+- [Notas](/notas) — Pensamentos fragmentados que fingem ter sentido.
+- [Projetos](/projetos) — Construções provisórias no terreno incerto da vontade.
+- [Sobre](/sobre) — Um retrato desfocado de quem escreve sem saber por quê.
 
 ---
 
-🌎 **Em construção contínua** — como todo bom mapa de territórios imaginários.
-
+🌎 **Sempre em construção** — como a memória de uma rua esquecida.
 
