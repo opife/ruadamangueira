@@ -7,6 +7,8 @@ comments: false
 tags: [reflexões, literatura, portugues]
 ---
 
+![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/path-up-hill.jpg)
+
 Embora eu tenha passado esses últimos quarenta e tantos anos aprendendo a dinâmica da língua portuguesa falada e escrita no Brasil, e por vezes pontuais, em outras nações, a flor do lácio do Bilac é um enigma para mim. 
 
 Sei de minha limitação para atingir a graça perversa do Milô Fernandes, para imitar a palavra seca do Graciliano, para copiar o Quintana, para clonar os haikais do Leminski e para adotar o neologismo fantástico do João Guimarães Rosa. "Do" João (imodéstia, digo).
