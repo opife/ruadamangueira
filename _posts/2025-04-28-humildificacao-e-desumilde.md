@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Humildificação e desumilde. As palavras."
-date: 2025-04-28
+date: 2025-04-26
 author: Pife
 comments: false
 tags: [reflexões, literatura, portugues]
